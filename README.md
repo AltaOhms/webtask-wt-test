@@ -1,2 +1,3 @@
 # webtask-wt-test
-Webtask workshop 1 - testing webhooks
+Learning webtask with Glenn Beck at [.NET Fringe workshop](https://github.com/glennblock/webtask-workshop).
+
